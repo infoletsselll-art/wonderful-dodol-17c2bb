@@ -1,0 +1,6 @@
+{
+  "name": "Visit Islamabad",
+  "description": "Visit Islamabad - A gateway to the visitors of all types and for all purposes. Health & hospital checkups, Supreme & High Court appearances, universities & study, shopping bazaars, tourism, transit to Northern Areas, and end-to-end multi-budget transport and verified stays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
